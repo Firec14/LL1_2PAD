@@ -1,0 +1,22 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "Broker";
+
+service BrokerService {
+  rpc SendMessage (Message) returns (Ack);
+  rpc Subscribe (SubscribeRequest) returns (stream Message);
+}
+
+message Message {
+  string subject = 1;
+  string content = 2;
+}
+
+message SubscribeRequest {
+  string receiver_id = 1;
+  string subject = 2;
+}
+
+message Ack {
+  bool success = 1;
+}

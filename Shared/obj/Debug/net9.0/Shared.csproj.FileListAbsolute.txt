@@ -1,0 +1,12 @@
+C:\Users\Iaroslav-DELL\RiderProjects\LL1_PAD_gRPC\Shared\bin\Debug\net9.0\Shared.deps.json
+C:\Users\Iaroslav-DELL\RiderProjects\LL1_PAD_gRPC\Shared\bin\Debug\net9.0\Shared.dll
+C:\Users\Iaroslav-DELL\RiderProjects\LL1_PAD_gRPC\Shared\bin\Debug\net9.0\Shared.pdb
+C:\Users\Iaroslav-DELL\RiderProjects\LL1_PAD_gRPC\Shared\obj\Debug\net9.0\Shared.csproj.AssemblyReference.cache
+C:\Users\Iaroslav-DELL\RiderProjects\LL1_PAD_gRPC\Shared\obj\Debug\net9.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iaroslav-DELL\RiderProjects\LL1_PAD_gRPC\Shared\obj\Debug\net9.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Iaroslav-DELL\RiderProjects\LL1_PAD_gRPC\Shared\obj\Debug\net9.0\Shared.AssemblyInfo.cs
+C:\Users\Iaroslav-DELL\RiderProjects\LL1_PAD_gRPC\Shared\obj\Debug\net9.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Iaroslav-DELL\RiderProjects\LL1_PAD_gRPC\Shared\obj\Debug\net9.0\Shared.dll
+C:\Users\Iaroslav-DELL\RiderProjects\LL1_PAD_gRPC\Shared\obj\Debug\net9.0\refint\Shared.dll
+C:\Users\Iaroslav-DELL\RiderProjects\LL1_PAD_gRPC\Shared\obj\Debug\net9.0\Shared.pdb
+C:\Users\Iaroslav-DELL\RiderProjects\LL1_PAD_gRPC\Shared\obj\Debug\net9.0\ref\Shared.dll
